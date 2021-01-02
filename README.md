@@ -1,7 +1,9 @@
-Tienda online. Hecho con React, Redux, Firebase, Reac-Router.
+Tienda online. Hecho con React, Redux, Firebase, React-Router.
 
 SE PUEDE VER EN: https://crownshop.netlify.app/
 
+.
+.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
